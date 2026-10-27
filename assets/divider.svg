@@ -1,1 +1,13 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="3" viewBox="0 0 1000 3">
+  <defs>
+    <linearGradient id="line">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+      <animate attributeName="x1" values="-100%;100%;-100%" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="3" fill="url(#line)"/>
+</svg>
+
