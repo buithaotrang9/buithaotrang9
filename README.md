@@ -8,6 +8,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider">
+</p>
 
 ## 👋 ABOUT ME
 
@@ -29,7 +32,17 @@ data_analyst:
     - "Using data to identify business opportunities"
 ```
 
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider">
+</p>
 
+## TECHNICAL SKILLS
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider">
+</p>
+
+## 
 <p align="center">
   <img src="assets/footer-banner.png" width="100%" alt="Footer banner">
 </p>
