@@ -12,7 +12,9 @@
   <img src="assets/divider.svg" width="100%" alt="Divider">
 </p>
 
-## 👋 ABOUT ME
+<p align="center">
+  <img src="assets/about_me.png" width="100%" alt="About me">
+</p>
 
 ```yaml
 data_analyst:
